@@ -1,13 +1,13 @@
 ## Kestävyysvaje
-👉 [Avaa projekti](kestävyys.md)
+👉 [Avaa projekti](kestävyysvaje_portfolio.pdf)
 
 ## EDP
-👉 [Avaa projekti](EDP.md)
+👉 [Avaa projekti](EDP_portfolio.pdf)
 
 ## Asuntolaina
-👉 [Avaa projekti](asuntola.md)
+👉 [Avaa projekti](asuntola_portfolio.pdf)
 
 ## Kiinteistö
-👉 [Avaa projekti](asuntorahas.md)
+👉 [Avaa projekti](asuntorahasto_portfolio.pdf)
 
 

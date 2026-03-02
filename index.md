@@ -1,8 +1,8 @@
 ---
-title: "Portfolio"
+title:""
 ---
-
-# Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja!
+ 
+# Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja! Tervetuloa portfolioni sivuille.
 
 <img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
@@ -10,7 +10,7 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
 
 <div style="
   float:right;
-  width:260px;
+  width:350px;
   background:#f3f6fa;
   border:3px solid hotpink;
   padding:12px 16px;

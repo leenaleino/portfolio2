@@ -8,7 +8,5 @@ Minua kiinnostaa talous laajasti – miten asiat liittyvät toisiinsa, miten nii
   Yritän voittaa 2500 pisteen shakkikonetta – ilman tekoälyä.
 </div>
 
-👉 [Kurkkaa projekteihini](projects.md)
-
 
 👉 [Kurkkaa projekteihini](projects.md)

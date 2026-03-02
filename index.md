@@ -3,7 +3,7 @@
 
 <img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
-Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa, visualisointia ja selkeyttä tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
+Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa sekä visualisointia tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
 
 <div style="
   float:right;
@@ -15,7 +15,7 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa,
   font-size:0.85em;
   margin-left:20px;
 ">
-  <strong>Yksi faktaa minusta:</strong><br>
+  <strong>Yksi fakta minusta:</strong><br>
  Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun
 </div>
 

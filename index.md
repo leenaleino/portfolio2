@@ -15,11 +15,10 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa,
   font-size:0.85em;
   margin-left:20px;
 ">
-  <strong>♜ Faktaa minusta</strong><br>
-  • Tykkään talousdatasta<br>
-  • Pelaan shakkia<br>
-  • Olen utelias luonne, joka haluaa jatkuvasti oppia uutta
+  <strong>Yksi faktaa minusta:</strong><br>
+ Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun
 </div>
+
 
 
 

@@ -30,8 +30,7 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
 👉 [Tästä pääset projekteihini](projects.md)
 
 
-
-
+<div style="clear: both;"></div>
 <div style="
   float:left;
   width:260px;
@@ -40,10 +39,10 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
   padding:12px 16px;
   border-radius:10px;
   font-size:0.85em;
-  margin-top:20px;
+  margin-top:40px;
 ">
   <strong>📬 Yhteystiedot</strong><br>
   leena.leino@live.com<br>
   0443390314
- 
 </div>
+

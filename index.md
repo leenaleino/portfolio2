@@ -1,6 +1,12 @@
 ---
 title:""
 ---
+<style>
+  header {
+    border-top: 3px solid hotpink !important;
+  }
+</style>
+
  
 # Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja! Tervetuloa portfolioni sivuille.
 

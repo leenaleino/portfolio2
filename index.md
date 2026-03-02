@@ -19,11 +19,11 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
   width:350px;
   background:#f3f6fa;
   border:3px solid hotpink;
-  padding:12px 16px;
+  padding:14px 18px;
   border-radius:10px;
   font-size:0.85em;
   margin-left:30px;
-  margin-right:10px;
+  margin-right:20px;
 ">
    <strong>Yksi fakta minusta:</strong><br>
  Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun

@@ -1,15 +1,16 @@
-/* Yläreunan viiva */
+/* Piilottaa koko headerin, jossa lukee "View the Project on GitHub" */
 header {
+  display: none !important;
+}
+
+/* Pinkki viiva sivun yläreunaan */
+body {
   border-top: 3px solid hotpink !important;
 }
 
-/* Poistaa harmaat viivat otsikon ympäriltä */
+/* Poistaa harmaat viivat otsikoiden ympäriltä */
 section {
   border-top: 3px solid hotpink !important;
   border-bottom: 3px solid hotpink !important;
 }
 
-/* Piilottaa otsikon kokonaan */
-header h1 {
-  display: none !important;
-}

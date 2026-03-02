@@ -1,11 +1,26 @@
 
 # Hei! Olen Leena, ekonomisti ja utelias ajattelija.
 
-<img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="120" style="float: left; margin-right: 20px; border-radius: 10px;">
+<img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
 
-Minua kiinnostaa talous laajasti – miten asiat liittyvät toisiinsa, miten niitä voi selittää ymmärrettävästi ja miten dataa voi käyttää tukena.
-<div style="clear: both;"></div>
+
+<div style="
+  float:right;
+  width:220px;
+  background:#f3f6fa;
+  border:3px solid hotpink;
+  padding:10px 14px;
+  border-radius:10px;
+  font-size:0.85em;
+  margin-left:20px;
+">
+  <strong>♜ Faktaa minusta</strong><br>
+  • Tykkään talousdatasta<br>
+  • Pelaan shakkia<br>
+  • Olen utelias luonne, joka haluaa jatkuvasti oppia uutta
+</div>
+
 
 
 <div style="padding: 18px; border-radius: 10px; background: #f3f6fa; border: 3px solid hotpink !important; margin: 25px 0;">

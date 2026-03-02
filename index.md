@@ -36,19 +36,20 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
 👉 [Tästä pääset projekteihini](projects.md)
 
 
+
+
 <div style="
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: #f3f6fa;
-  border: 3px solid hotpink;
-  padding: 12px 16px;
-  border-radius: 10px;
-  font-size: 0.85em;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  z-index: 999;
+  float:left;
+  width:260px;
+  background:#f3f6fa;
+  border:3px solid hotpink;
+  padding:12px 16px;
+  border-radius:10px;
+  font-size:0.85em;
+  margin-top:20px;
 ">
-  <strong>Yhteystiedot</strong><br>
+  <strong>📬 Yhteystiedot</strong><br>
   leena.leino@live.com<br>
   0443390314
+ 
 </div>

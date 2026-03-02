@@ -1,9 +1,9 @@
 
-# Hei! Olen Leena, ekonomisti ja utelias ajattelija.
+# Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja!
 
 <img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
-
+Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa, visualisointia ja selkeyttä tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
 
 <div style="
   float:right;
@@ -19,14 +19,6 @@
   • Tykkään talousdatasta<br>
   • Pelaan shakkia<br>
   • Olen utelias luonne, joka haluaa jatkuvasti oppia uutta
-</div>
-
-
-
-<div style="padding: 18px; border-radius: 10px; background: #f3f6fa; border: 3px solid hotpink !important; margin: 25px 0;">
-  <strong style="font-size: 1.1em;">Yksi fakta minusta</strong><br>
-  Yritän voittaa 2500 pisteen shakkikonetta♜
-
 </div>
 
 

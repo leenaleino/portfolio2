@@ -3,10 +3,11 @@
 
 Minua kiinnostaa talous laajasti – miten asiat liittyvät toisiinsa, miten niitä voi selittää ymmärrettävästi ja miten dataa voi käyttää tukena.
 
-<div style="padding: 15px; border: 2px solid #ccc; border-radius: 8px; background: #f9f9f9; margin: 20px 0;">
-  <strong>Yksi fakta minusta:</strong><br>
+<div style="padding: 18px; border-radius: 10px; background: #f3f6fa; border: 1px solid #dce3ec; margin: 25px 0;">
+  <strong style="font-size: 1.1em;">Yksi fakta minusta</strong><br>
   Yritän voittaa 2500 pisteen shakkikonetta – ilman tekoälyä.
 </div>
+
 
 
 

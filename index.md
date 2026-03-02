@@ -10,15 +10,16 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
 
 <div style="
   float:right;
-  width:220px;
+  width:260px;
   background:#f3f6fa;
   border:3px solid hotpink;
-  padding:10px 14px;
+  padding:12px 16px;
   border-radius:10px;
   font-size:0.85em;
-  margin-left:20px;
+  margin-left:30px;
+  margin-right:10px;
 ">
-  <strong>Yksi fakta minusta:</strong><br>
+   <strong>Yksi fakta minusta:</strong><br>
  Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun
 </div>
 

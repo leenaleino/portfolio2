@@ -1,15 +1,15 @@
-/* Poistaa yläotsikon kokonaan */
-header h1 {
-  display: none !important;
-}
-
-/* Muuttaa yläreunan viivan pinkiksi */
+/* Yläreunan viiva */
 header {
   border-top: 3px solid hotpink !important;
 }
 
-/* Muuttaa myös otsikon ympärillä olevat viivat pinkiksi */
+/* Poistaa harmaat viivat otsikon ympäriltä */
 section {
   border-top: 3px solid hotpink !important;
   border-bottom: 3px solid hotpink !important;
+}
+
+/* Piilottaa otsikon kokonaan */
+header h1 {
+  display: none !important;
 }

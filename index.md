@@ -9,4 +9,5 @@ Minua kiinnostaa talous laajasti – miten asiat liittyvät toisiinsa, miten nii
 </div>
 
 
-👉 [Kurkkaa projekteihini](projects.md)
+
+👉 [Tästä pääset projekteihini](projects.md)

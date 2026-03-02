@@ -1,7 +1,5 @@
-title: ""
-logo: ""
 theme: jekyll-theme-minimal
+title: ""
 
-# Tämä kertoo GitHub Pagesille, että se saa käyttää omaa CSS:ääsi
 include:
   - assets/css/style.css

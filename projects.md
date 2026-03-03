@@ -41,8 +41,14 @@
 
 <div class="project-box box7">
   <h3>🏡 Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen määrään</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Tässä projektissa analysoin uusien asuntolainojen kehitystä tilastollisten menetelmien avulla. Tarkastelu keskittyy siihen, miten talouden suhdanteet ja kotitalouksien käyttäytyminen heijastuvat lainakysyntään. Analyysin toteutin R:llä ja visualisoin tulokset Power BI:ssä.
+  </p>
+
   <a href="uudetlainat.pdf">Avaa projekti</a>
 </div>
+
 
 <div class="project-box box1">
   <h3>🏢 Kiinteistörahastojen riskien tarkastelu R:llä</h3>

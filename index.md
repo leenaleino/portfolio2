@@ -19,11 +19,6 @@ title: ""
 <div style="clear: both;"></div>
 
 
-
-
-<p style="font-size: 1.4em; font-weight: bold;">
-  👉 <a href="projects.html">Tästä pääset projekteihini</a>
-
 <div style="
   width:350px;
   background:#f3f6fa;

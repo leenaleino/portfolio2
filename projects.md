@@ -28,11 +28,16 @@
 </div>
 
 
-
 <div class="project-box box6">
   <h3>📉 Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen vaikutus EDP-velkaan</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Tässä projektissa tarkastelen, miten BKT:n volyymin muutos, julkisyhteisöjen tulot ja menot sekä työttömyysaste vaikuttavat EDP-velan kehitykseen. Analyysi perustuu tilastollisiin menetelmiin, joita toteutin R:llä, ja visualisoinnit rakensin Power BI:llä.
+  </p>
+
   <a href="EDP_portfolio.pdf">Avaa projekti</a>
 </div>
+
 
 <div class="project-box box7">
   <h3>🏡 Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen määrään</h3>

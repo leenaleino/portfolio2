@@ -6,11 +6,12 @@ title: ""
 ## Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja!<br>Tervetuloa portfolioni sivuille.
 
 
-<img src="kuva.jpg" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
+<img src="kuva.jpg" alt="Leena" width="80" style="float: left; margin-right: 20px; border-radius: 10px;">
+
 
 <p style="font-size: 1.2em;">
   Tämä portfolio esittelee valikoituja projekteja, 
-  joissa yhdistän talousdataa sekä visualisointia tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
+  
 </p>
 
 
@@ -19,6 +20,7 @@ title: ""
 
 <p style="font-size: 1.4em; font-weight: bold;">
   👉 <a href="projects.html">Tästä pääset projekteihini</a>
+
 
 
 

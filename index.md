@@ -8,7 +8,7 @@ title: ""
 
 <img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
-Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa sekä visualisointia tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
+Tämä portfolio esittelee valikoituja projekteja, <br>joissa yhdistän talousdataa sekä visualisointia tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
 
 <div style="
   float:right;

@@ -19,7 +19,11 @@
 
 <div class="project-box box5">
   <h3>💶 Korkotason rooli Suomen kestävyysvajeessa: kustannus, tulonlähde vai molemmat?</h3>
-  <a href="kestävyysvaje_portfolio.pdf">Avaa projekti</a>
+  <a href="kestävyysvaje_portfolio.pdf"<p style="font-size: 1.2em; margin-top: 8px;">
+  Tämä projekti on teoreettinen tarkastelu siitä, miten korkotaso vaikuttaa Suomen kestävyysvajeeseen ja voidaanko korkomenoja tulkita kustannuksiksi, tulonlähteiksi tai molemmiksi.
+</p>
+
+    >Avaa projekti</a>
 </div>
 
 <div class="project-box box6">

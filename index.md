@@ -18,8 +18,8 @@ title: ""
 
 
 <p style="font-size: 1.4em; font-weight: bold;">
-  👉 <a href="projects.md">Tästä pääset projekteihini</a>
-</p>
+  👉 <a href="projects.html">Tästä pääset projekteihini</a>
+
 
 
 

@@ -37,5 +37,8 @@
   <a href="asuntorahasto_portfolio.pdf">Avaa projekti</a>
 </div>
 
+<p style="margin-top:40px;">
+  <a href="index.html">⬅️ Palaa takaisin etusivulle</a>
+</p>
 
 

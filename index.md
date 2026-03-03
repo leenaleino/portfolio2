@@ -35,7 +35,6 @@ title: ""
 
 <div style="height:40px;"></div>
 
-
 <div style="clear: both;"></div>
 <div style="
   float:left;

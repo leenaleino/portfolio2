@@ -6,7 +6,7 @@ title: ""
 ## Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja!<br>Tervetuloa portfolioni sivuille.
 
 
-<img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
+<img src="kuva.jpg" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
 <p style="font-size: 1.2em;">
   Tämä portfolio esittelee valikoituja projekteja, 

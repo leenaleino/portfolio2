@@ -8,6 +8,8 @@ title: ""
 
 <img src="kuva.jpg" alt="Leena" width="80" style="float: left; margin-right: 20px; border-radius: 10px;">
 
+<div style="clear: both;"></div>
+
 
 <p style="font-size: 1.2em;">
   Tämä portfolio esittelee valikoituja projekteja, 

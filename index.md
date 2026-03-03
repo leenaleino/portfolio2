@@ -29,7 +29,7 @@ title: ""
   margin-top:40px;
 ">
    <strong>Yksi fakta minusta:</strong><br>
-   Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun
+   Yritän voittaa 2500 pisteen shakkikoneen
 </div>
 
 

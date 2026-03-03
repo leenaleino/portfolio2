@@ -28,6 +28,7 @@
 </div>
 
 
+
 <div class="project-box box6">
   <h3>📉 Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen vaikutus EDP-velkaan</h3>
   <a href="EDP_portfolio.pdf">Avaa projekti</a>

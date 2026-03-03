@@ -19,19 +19,6 @@ title: ""
 <div style="clear: both;"></div>
 
 
-<div style="
-  width:350px;
-  background:#f3f6fa;
-  border:3px solid hotpink;
-  padding:14px 18px;
-  border-radius:10px;
-  font-size:0.85em;
-  margin-top:40px;
-">
-   <strong>Yksi fakta minusta:</strong><br>
-   Yritän voittaa 2500 pisteen shakkikoneen
-</div>
-
 
 <div style="height:40px;"></div>
 

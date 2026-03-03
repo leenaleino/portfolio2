@@ -29,7 +29,7 @@
 
 <div class="project-box box7">
   <h3>🏡 Korkotason, asuntojen hintojen sekä työttömyysasteen vaikutus uusien lainojen määrään</h3>
-  <a href="uudetlainat.pdf.pdf">Avaa projekti</a>
+  <a href="uudetlainat.pdf">Avaa projekti</a>
 </div>
 
 <div class="project-box box1">

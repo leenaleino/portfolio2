@@ -52,8 +52,14 @@
 
 <div class="project-box box1">
   <h3>🏢 Kiinteistörahastojen riskien tarkastelu R:llä</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Tässä tarkastelen kiinteistörahastojen riskejä tilanteissa, joissa sijoittajat tekevät samanaikaisia lunastuksia. Estimoin R:n avulla, miten lunastusaallot heijastuvat rahastojen arvonkehitykseen erityisesti silloin, kun rahasto rajoittaa lunastuksia. Tarkastelu auttaa ymmärtämään likviditeettiriskin ja arvonmuutosten välistä yhteyttä.
+  </p>
+
   <a href="asuntorahasto_portfolio.pdf">Avaa projekti</a>
 </div>
+
 
 <p style="margin-top:40px;">
   <a href="index.html">⬅️ Palaa takaisin etusivulle</a>

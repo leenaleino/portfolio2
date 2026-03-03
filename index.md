@@ -8,13 +8,21 @@ title: ""
 
 <img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
-<p style="font-size: 1.4em;">
-  Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa sekä visualisointia tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
+<p style="font-size: 1.2em;">
+  Tämä portfolio esittelee valikoituja projekteja, 
+  joissa yhdistän talousdataa sekä visualisointia tavoitteenani ymmärtää talouden rakenteita ja kertoa niistä ymmärrettävästi.
 </p>
 
 
+
+
+
+<p style="font-size: 1.4em; font-weight: bold;">
+  👉 <a href="projects.md">Tästä pääset projekteihini</a>
+</p>
+
 <div style="
-  float:right;
+  float:left;
   width:350px;
   background:#f3f6fa;
   border:3px solid hotpink;
@@ -29,13 +37,7 @@ title: ""
  Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun
 </div>
 
-
-
-
-<p style="font-size: 1.4em; font-weight: bold;">
-  👉 <a href="projects.md">Tästä pääset projekteihini</a>
-</p>
-
+<div style="height:40px;"></div>
 
 
 <div style="clear: both;"></div>

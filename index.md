@@ -29,7 +29,10 @@ Tämä portfolio esittelee valikoituja projekteja, <br>joissa yhdistän talousda
 
 
 
-## 👉 [Tästä pääset projekteihini](projects.md)
+<p style="font-size: 1.4em; font-weight: bold;">
+  👉 <a href="projects.md">Tästä pääset projekteihini</a>
+</p>
+
 
 
 <div style="clear: both;"></div>

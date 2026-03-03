@@ -3,7 +3,7 @@ title: ""
 ---
 
  
-## Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja!<br>Tervetuloa portfolioni sivuille.
+## Hei! Olen Leena, ekonomisti ja utelias ongelmienratkoja!<br>Tervetuloa portfolioni sivuille.
 
 
 <img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">

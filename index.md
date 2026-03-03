@@ -12,7 +12,12 @@ title: ""
   Seuraan talouspolitiikkaa ja rahoitusmarkkinoita ja teen havainnoista selkeitä analyysejä.
 </p>
 
+<p style="font-size:1.1em; margin-top:10px;">
+  <a href="projects.html">➡️ Tästä pääset projekteihini</a>
+</p>
+
 <div style="clear: both;"></div>
+
 
 
 

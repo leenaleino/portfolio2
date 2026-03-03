@@ -3,7 +3,8 @@ title: ""
 ---
 
  
-# Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja! Tervetuloa portfolioni sivuille.
+## Hei! Olen Leena, ekonomisti ja analyyttinen ongelmienratkoja!<br>Tervetuloa portfolioni sivuille.
+
 
 <img src="Screenshot 2025-11-20 103507.png" alt="Leena" width="90" style="float: left; margin-right: 20px; border-radius: 10px;">
 
@@ -19,6 +20,7 @@ Tämä portfolio esittelee valikoituja projekteja, joissa yhdistän talousdataa 
   font-size:0.85em;
   margin-left:30px;
   margin-right:20px;
+  margin-top:40px;
 ">
    <strong>Yksi fakta minusta:</strong><br>
  Yritän voittaa 2500 pisteen shakkikoneen, enkä luovuta ennen kuin onnistun

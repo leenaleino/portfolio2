@@ -31,7 +31,6 @@ title: ""
   padding:14px 18px;
   border-radius:10px;
   font-size:0.85em;
-  margin-left:30px;
   margin-right:20px;
   margin-top:40px;
 ">

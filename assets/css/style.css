@@ -14,11 +14,13 @@ section {
   border-bottom: 3px solid hotpink !important;
 }
 
-.site-footer {
+.bottom-image-strip {
+  width: 100%;
+  height: 160px;
   background-image: url("../../kuva11.jpg");
   background-size: cover;
-  background-position: center 80%;
+  background-position: center 100%;
   background-repeat: no-repeat;
   opacity: 0.18;
-  height: 150px; /* säädä 150–250px */
 }
+

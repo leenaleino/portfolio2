@@ -38,3 +38,13 @@ title: ""
   0443390314
 </div>
 
+<div class="bottom-image-strip"></div>
+.bottom-image-strip {
+  width: 100%;
+  height: 220px; /* voit säätää korkeutta */
+  background-image: url("kuva11.jpg"); /* käytä kuvan oikeaa nimeä */
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  opacity: 0.18; /* häivytys – kokeile 0.1–0.25 */
+}

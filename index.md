@@ -35,6 +35,7 @@ title: ""
 ">
   <strong>📬 Yhteystiedot</strong><br>
   leena.leino@live.com<br>  
+  0443390314
 </div>
   <div class="bottom-image-strip"></div>
 

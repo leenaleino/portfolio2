@@ -3,13 +3,14 @@ title: ""
 ---
 
  
-## Hei! Olen Leena, ekonomisti ja innokas shakin pelaaja.<br>Tervetuloa portfolioni sivuille.
+## Hei! Olen Leena, ekonomisti.<br>Tervetuloa portfolioni sivuille.
 
 
 <img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
 
 <p style="font-size: 1.2em;">
-  Seuraan talouspolitiikkaa ja rahoitusmarkkinoita uteliaasti. <br>Alla olevasta linkistä pääset kurkkaamaan muutamia talousaiheisia kirjoituksiani.
+  Seuraan talouspolitiikkaa ja rahoitusmarkkinoita uteliaasti. Tykkään haastaa itseäni niin shakin kuin voimaharjoittelun parissa. 
+ <br>Alla olevasta linkistä pääset kurkkaamaan muutamia talousaiheisia kirjoituksiani.
 </p>
 
 <p style="font-size:1.1em; margin-top:10px;">

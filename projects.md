@@ -22,7 +22,7 @@
   <p>
     Tämä kooste kuvaa Suomen julkisen talouden keskeisiä kehityskulkuja vuosilta 2000–2024. 
     Se toimii taustana projekteilleni, joissa tarkastelen tarkemmin EDP‑velkaa, julkisyhteisöjen menoja 
-    ja talouden suhdanteita.
+    ja talouden suhdanteita. Kuva on toteutettu Tableaulla, aineistolähteet: Tilastokeskus
   </p>
 
   <img src="Dashboard 3.png" 

@@ -17,6 +17,18 @@
 .box7 { background: #e6fff9; border-color: #66ffd1; }
 </style>
 
+<section class="project">
+  <h2>Makrotason taustakuva: Suomen julkinen talous 2000–2024</h2>
+  <p>
+    Tämä kooste kuvaa Suomen julkisen talouden keskeisiä kehityskulkuja vuosilta 2000–2024. 
+    Se toimii taustana projekteilleni, joissa tarkastelen tarkemmin EDP‑velkaa, julkisyhteisöjen menoja 
+    ja talouden suhdanteita.
+  </p>
+
+  <img src="Dashboard 3.png" 
+       alt="Suomen julkisen talouden kehitys 2000–2024"
+       style="max-width: 100%; height: auto; margin-top: 20px;">
+</section>
 
 
 <div class="project-box box6">

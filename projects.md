@@ -27,7 +27,7 @@
 
   <img src="Dashboard 3.png" 
        alt="Suomen julkisen talouden kehitys 2000–2024"
-       style="max-width: 100%; height: auto; margin-top: 20px;">
+       style="max-width: 60%; height: auto; margin-top: 20px;">
 </section>
 
 

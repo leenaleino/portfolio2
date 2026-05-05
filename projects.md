@@ -17,6 +17,18 @@
 .box7 { background: #e6fff9; border-color: #66ffd1; }
 </style>
 
+<div class="project-box box1">
+  <h3>📘 Kasvun esteet Suomessa: rakenteellinen tarkastelu</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Kirjallinen analyysi Suomen talouskasvun rakenteellisista haasteista. Tarkastelen, miksi kasvu ei ole
+    pelkästään suhdanteista kiinni, vaan liittyy mm. investointirakenteeseen, tuottavuuden kehitykseen,
+    startup‑kentän kokoon ja pääomasijoitusmarkkinoiden rooliin.
+  </p>
+
+  <a href="Suomen kasvu.pdf" class="project-link">Lue kirjoitus</a>
+</div>
+
 
 <div class="project-box box6">
   <h3>📉 Bkt:n volyymin muutoksen, julkisyhteisöjen tulojen ja menojen sekä työttömyysasteen vaikutus EDP-velkaan</h3>

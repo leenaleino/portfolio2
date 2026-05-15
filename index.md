@@ -34,7 +34,7 @@ title: ""
   margin-top:40px;
 ">
   <strong>📬 Yhteystiedot</strong><br>
-  leena.leino@live.com<br>  
+  leenaeleino@gmail.com<br>  
   0443390314
 </div>
   <div class="bottom-image-strip"></div>

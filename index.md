@@ -36,9 +36,11 @@ title: ""
   font-size:0.85em;
   margin-top:40px;
 ">
+
 <strong>📬 Yhteystiedot</strong><br>
 leenaeleino@gmail.com<br>
 0443390314<br>
+<div class="bottom-image-strip"></div>
 
 
 

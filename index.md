@@ -7,6 +7,7 @@ title: ""
 
 
 <img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
+<div style="clear: both;"></div>
 <div class="cv-link">
   <a href="CV_Leena_Leino.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 </div>

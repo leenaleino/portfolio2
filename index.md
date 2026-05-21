@@ -35,22 +35,21 @@ title: ""
   margin-top:40px;
 ">
 
-<strong>📬 Yhteystiedot</strong><br>
-leenaeleino@gmail.com<br>
-0443390314<br>
-</div>
-
-<div style="clear: both;"></div>
-
-<div class="bottom-image-strip" style="
-  width:100%;
-  height:120px;
-  background-image:url('kuva11.jpg');
-  background-size:cover;
-  background-position:center;
-  margin-top:40px;
-"></div>
-
+ <div style="
+    position:absolute;
+    top:10px;
+    left:10px;
+    background:#f3f6fa;
+    border:3px solid hotpink;
+    padding:12px 16px;
+    border-radius:10px;
+    font-size:0.85em;
+    width:260px;
+  ">
+    <strong>📬 Yhteystiedot</strong><br>
+    leenaeleino@gmail.com<br>
+    0443390314<br>
+  </div>
 
 
 

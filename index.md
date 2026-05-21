@@ -19,23 +19,18 @@ title: ""
 <div style="clear: both;"></div>
 
 
-
-<div style="height:40px;"></div>
-
-<div style="clear: both;"></div>
-
 <div style="
-  float:left;
-  width:260px;
-  background:#f3f6fa;
-  border:3px solid hotpink;
-  padding:12px 16px;
-  border-radius:10px;
-  font-size:0.85em;
+  position: relative;
+  width:100%;
+  height:120px;
+  background-image:url('kuva11.jpg');
+  background-size:cover;
+  background-position:center;
   margin-top:40px;
 ">
 
- <div style="
+  
+  <div style="
     position:absolute;
     top:10px;
     left:10px;
@@ -51,6 +46,5 @@ title: ""
     0443390314<br>
   </div>
 
-
-
+</div>
 

@@ -28,7 +28,14 @@ title: ""
   background-position:center;
   margin-top:40px;
 ">
-
+ <div style="
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(255,255,255,0.4); /* 0.4 = himmennysaste */
+  "></div>
   
   <div style="
     position:absolute;

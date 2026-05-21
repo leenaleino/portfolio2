@@ -36,9 +36,6 @@ title: ""
   <strong>📬 Yhteystiedot</strong><br>
   leenaeleino@gmail.com<br>  
   0443390314
- <h2>CV</h2>
-<p><a href="cv.pdf" target="_blank" rel="noopener noreferrer">Avaa CV (CV_Leena_Leino.pdf)</a></p>
-
 </div>
   <div class="bottom-image-strip"></div>
 

@@ -34,7 +34,7 @@ title: ""
     left:0;
     width:100%;
     height:100%;
-    background:rgba(255,255,255,0.4); /* 0.6 = himmennysaste */
+    background:rgba(255,255,255,0.6); /* 0.4 = himmennysaste */
   "></div>
   
   <div style="

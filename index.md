@@ -7,10 +7,6 @@ title: ""
 
 
 <img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
-<div style="clear: both;"></div>
-<div class="cv-link">
-  <a href="CV_Leena_Leino.pdf" target="_blank" rel="noopener noreferrer">CV</a>
-</div>
 
 <p style="font-size: 1.2em;">
   Seuraan talouspolitiikkaa ja rahoitusmarkkinoita uteliaasti. <br>Alla olevasta linkistä pääset kurkkaamaan muutamia talousaiheisia kirjoituksiani.
@@ -27,6 +23,7 @@ title: ""
 <div style="height:40px;"></div>
 
 <div style="clear: both;"></div>
+
 <div style="
   float:left;
   width:260px;
@@ -41,8 +38,18 @@ title: ""
 <strong>📬 Yhteystiedot</strong><br>
 leenaeleino@gmail.com<br>
 0443390314<br>
-<div class="bottom-image-strip"></div>
+</div>
 
+<div style="clear: both;"></div>
+
+<div class="bottom-image-strip" style="
+  width:100%;
+  height:120px;
+  background-image:url('kuva11.jpg');
+  background-size:cover;
+  background-position:center;
+  margin-top:40px;
+"></div>
 
 
 

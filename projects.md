@@ -22,7 +22,7 @@
 
   <p style="font-size: 1.2em; margin-top: 8px;">
     Tässä kirjoituksessa tarkastelen, miten nopea inflaatio, reaalitulojen muutokset ja taloudellinen epävarmuus
-    ovat muokanneet suomalaisten kuluttajien käyttäytymistä. Analyysi käsittelee ostoskorin rakennetta,
+    voivat muokata kuluttajien käyttäytymistä. Analyysi käsittelee ostoskorin rakennetta,
     hintatietoisuuden kasvua, varovaisuutta sekä euroalueen inflaation ja rahapolitiikan vaikutuksia
     kotitalouksien päätöksentekoon.
   </p>

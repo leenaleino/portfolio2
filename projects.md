@@ -15,7 +15,7 @@
 .box5 { background: #f0e6ff; border-color: #c299ff; }
 .box6 { background: #ffe6e6; border-color: #ff9999; }
 .box7 { background: #e6fff9; border-color: #66ffd1; }
-.box8 { background: #f7f7f7; border-color: #b3b3b3; } 
+.box8 { background: #fff5cc; border-color: #ffdd66; } 
 </style>
 
 <div class="project-box box8">

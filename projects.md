@@ -17,6 +17,20 @@
 .box7 { background: #e6fff9; border-color: #66ffd1; }
 </style>
 
+<div class="project-box box8">
+  <h3>🛒 Kuluttajakäyttäytymisen muutos inflaation aikana</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Tässä kirjoituksessa tarkastelen, miten nopea inflaatio, reaalitulojen muutokset ja taloudellinen epävarmuus
+    ovat muokanneet suomalaisten kuluttajien käyttäytymistä. Analyysi käsittelee ostoskorin rakennetta,
+    hintatietoisuuden kasvua, varovaisuutta sekä euroalueen inflaation ja rahapolitiikan vaikutuksia
+    kotitalouksien päätöksentekoon.
+  </p>
+
+  <a href="inflaatio.pdf">Lue kirjoitus</a>
+</div>
+
+
 <div class="project-box box1">
   <h3>📘 Kasvun esteet Suomessa: rakenteellinen tarkastelu</h3>
 

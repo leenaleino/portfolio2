@@ -15,8 +15,24 @@
 .box5 { background: #f0e6ff; border-color: #c299ff; }
 .box6 { background: #ffe6e6; border-color: #ff9999; }
 .box7 { background: #e6fff9; border-color: #66ffd1; }
-.box8 { background: #fffbea;  border-color: #ffe8a3; } 
+.box8 { background: #fffbea;  border-color: #ffe8a3; }
+.box9 { background: #e6f0ff; border-color: #99b3ff; }
+ 
 </style>
+
+<div class="project-box box9">
+  <h3>📈 Korkoympäristön normalisoituminen ja tuottovaatimus</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Tässä kirjoituksessa tarkastelen, miten korkojen nousu ja rahoitusympäristön normalisoituminen 
+    vaikuttavat kiinteistösijoittajan tuottovaatimukseen, arvonmääritykseen ja kassavirtojen 
+    diskonttaukseen. Käyn läpi tuottovaatimuksen mekanismit, herkkyysanalyysin ja sen, miksi 
+    arvonmuutos ei aina kerro operatiivisesta heikentymisestä.
+  </p>
+
+  <a href="korkoymparisto.md" class="project-link">Lue kirjoitus</a>
+</div>
+
 
 <div class="project-box box1">
   <h3>🏢 Kiinteistörahastojen riskien tarkastelu R:llä</h3>

@@ -35,7 +35,7 @@
     arvonmuutos ei aina kerro operatiivisesta heikentymisestä.
   </p>
 
-  <a href="korkoymparisto.md" class="project-link">Lue kirjoitus</a>
+  <a href="korkoy.pdf" class="project-link">Lue kirjoitus</a>
 </div>
 
 

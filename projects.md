@@ -17,6 +17,11 @@
 .box7 { background: #e6fff9; border-color: #66ffd1; }
 .box8 { background: #fffbea;  border-color: #ffe8a3; }
 .box9 { background: #e6f0ff; border-color: #99b3ff; }
+
+ .project-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+} 
  
 </style>
 

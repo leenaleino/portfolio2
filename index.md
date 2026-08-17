@@ -10,6 +10,7 @@ title: ""
 
 <p style="font-size: 1.2em;">
 Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen, mitä data ja käytännön havainnot kertovat.
+Alla olevasta linkistä pääset kurkkaamaan muutamia talousaiheisia kirjoituksiani.
 </p>
 
 <p style="font-size:1.1em; margin-top:10px;">

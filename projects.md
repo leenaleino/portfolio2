@@ -15,7 +15,6 @@
 .box5 { background: #f0e6ff; border-color: #c299ff; }
 .box6 { background: #ffe6e6; border-color: #ff9999; }
 .box7 { background: #e6fff9; border-color: #66ffd1; }
-.box8 { background: #fffbea;  border-color: #ffe8a3; }
 .box9 { background: #e6f0ff; border-color: #99b3ff; }
 
  .project-box:hover {
@@ -47,19 +46,6 @@
   </p>
 
   <a href="asuntorahasto_portfolio.pdf">Avaa projekti</a>
-</div>
-
-<div class="project-box box8">
-  <h3>🛒 Kuluttajakäyttäytymisen muutos inflaation aikana</h3>
-
-  <p style="font-size: 1.2em; margin-top: 8px;">
-    Tässä kirjoituksessa tarkastelen, miten nopea inflaatio, reaalitulojen muutokset ja taloudellinen epävarmuus
-    voivat muokata kuluttajien käyttäytymistä. Analyysi käsittelee ostoskorin rakennetta,
-    hintatietoisuuden kasvua, varovaisuutta sekä euroalueen inflaation ja rahapolitiikan vaikutuksia
-    kotitalouksien päätöksentekoon.
-  </p>
-
-  <a href="inflaatio.pdf">Lue kirjoitus</a>
 </div>
 
 

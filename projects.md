@@ -24,6 +24,18 @@
  
 </style>
 
+<div class="project-box box5">
+  <h3>📝 Ekonomistin mielipidekirjoitus</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Rakenteellinen analyysi Suomen talouden kipupisteistä: elintaso, asuntomarkkinat, demografia,
+    maahanmuutto, eläkejärjestelmä ja kasvun laatu.
+  </p>
+
+  <a href="opinion.html" class="project-link">Lue kirjoitus</a>
+</div>
+
+
 <div class="project-box box9">
   <h3>📈 Korkoympäristön normalisoituminen ja tuottovaatimus</h3>
 

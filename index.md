@@ -12,13 +12,10 @@ mitä data ja käytännön havainnot kertovat.<br>
 Kirjoitan myös talouden rakenteista analyyttisia mielipidekirjoituksia.
 </p>
 
-<p style="font-size:1.1em; margin-top:10px;">
-  <a href="opinion.html">➡️ Tästä pääset mielipidekirjoitukseen</a>
-</p>
-
-<p style="font-size:1.1em; margin-top:6px;">
+<div style="margin-top:10px; font-size:1.1em;">
+  <a href="opinion.html">➡️ Tästä pääset mielipidekirjoitukseen</a><br>
   <a href="projects.html">➡️ Tästä projekteihin</a>
-</p>
+</div>
 
 <div style="clear: both;"></div>
 

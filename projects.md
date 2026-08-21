@@ -21,7 +21,18 @@
   transform: translateY(-4px);
   box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 } 
- 
+
+  <div class="project-box box5">
+  <h3>📝 Ekonomistin mielipidekirjoitus</h3>
+
+  <p style="font-size: 1.2em; margin-top: 8px;">
+    Analyyttinen kirjoitus Suomen talouden kipupisteistä; velasta, elintasosta, asuntomarkkinoista,
+    demografiasta, maahanmuutosta, eläkejärjestelmästä ja kasvun laadusta.
+  </p>
+
+  <a href="opinion.html" class="project-link">Lue kirjoitus</a>
+</div>
+
 
 <div class="project-box box9">
   <h3>📈 Korkoympäristön normalisoituminen ja tuottovaatimus</h3>

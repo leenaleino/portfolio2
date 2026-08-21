@@ -1,7 +1,3 @@
----
-title: "Projektit"
----
-
 <style>
 .project-box {
   padding: 15px;

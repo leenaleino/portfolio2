@@ -22,8 +22,6 @@
   box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 } 
  
-</style>
-
 
 <div class="project-box box9">
   <h3>📈 Korkoympäristön normalisoituminen ja tuottovaatimus</h3>

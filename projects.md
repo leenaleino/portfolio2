@@ -27,7 +27,7 @@
   <h3>📝 Ekonomistin mielipidekirjoitus</h3>
 
   <p style="font-size: 1.2em; margin-top: 8px;">
-    Analyyttinen kirjoitus Suomen talouden kipupisteistä; velasta, elintasosta, asuntomarkkinoista,
+    Analyyttinen pohdinta Suomen talouden kipupisteistä; velasta, elintasosta, asuntomarkkinoista,
     demografiasta, maahanmuutosta, eläkejärjestelmästä ja kasvun laadusta.
   </p>
 

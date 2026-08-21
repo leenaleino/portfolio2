@@ -2,22 +2,25 @@
 title: ""
 ---
 
- 
 ## Hei! Olen Leena, ekonomisti.<br>Tervetuloa portfolioni sivuille.
-
 
 <img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
 
 <p style="font-size: 1.2em;">
-Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<br> mitä data ja käytännön havainnot kertovat.<br> Kirjoitan myös talouden rakenteista analyyttisia mielipidekirjoituksia.
+Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<br>
+mitä data ja käytännön havainnot kertovat.<br>
+Kirjoitan myös talouden rakenteista analyyttisia mielipidekirjoituksia.
 </p>
 
 <p style="font-size:1.1em; margin-top:10px;">
-  <a href="projects.html">➡️ Tästä pääset projekteihini</a>
+  <a href="opinion.html">➡️ Tästä pääset mielipidekirjoitukseen</a>
+</p>
+
+<p style="font-size:1.1em; margin-top:6px;">
+  <a href="projects.html">➡️ Tästä projekteihin</a>
 </p>
 
 <div style="clear: both;"></div>
-
 
 <div style="
   position: relative;
@@ -34,7 +37,7 @@ Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<b
     left:0;
     width:100%;
     height:100%;
-    background:rgba(255,255,255,0.7); /* 0.4 = himmennysaste */
+    background:rgba(255,255,255,0.7);
   "></div>
   
   <div style="
@@ -54,4 +57,3 @@ Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<b
   </div>
 
 </div>
-

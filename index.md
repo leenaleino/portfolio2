@@ -13,7 +13,7 @@ Kirjoitan myös talouden rakenteista analyyttisia mielipidekirjoituksia.
 </p>
 
 <div style="margin-top:10px; font-size:1.1em;">
-  <a href="projects.md">➡️ Tästä pääset projekteihin</a>
+  <a href="projects">➡️ Tästä pääset projekteihin</a>
 </div>
 
 <div style="clear: both;"></div>

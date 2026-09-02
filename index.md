@@ -9,7 +9,7 @@ title: ""
 <p style="font-size: 1.2em;">
 Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<br>
 mitä data ja käytännön havainnot kertovat.<br>
-Kirjoitan myös talouden rakenteista analyyttisia mielipidekirjoituksia.
+Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
 </p>
 
 <div style="margin-top:10px; font-size:1.1em;">

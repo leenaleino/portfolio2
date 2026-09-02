@@ -24,7 +24,7 @@
 </style>
 
 <div class="project-box box5">
-  <h3>📝 Ekonomistin mielipidekirjoitus</h3>
+  <h3>📝 Ekonomistin näkemyksiä</h3>
 
   <p style="font-size: 1.2em; margin-top: 8px;">
     Analyyttinen pohdinta Suomen talouden kipupisteistä; velasta, elintasosta, asuntomarkkinoista,

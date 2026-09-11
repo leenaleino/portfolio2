@@ -2,24 +2,41 @@
 title: ""
 ---
 
-<!-- GOOGLE FONT: INTER -->
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+<!-- GOOGLE FONT: LATO (kevyt ja siisti) -->
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;600&display=swap" rel="stylesheet">
 
 <style>
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+
+/* Otsikko hieman vahvemmaksi */
+h2 {
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  margin-bottom: 25px;
 }
 
 /* Pinkki projektilinkki */
 .project-link {
-  font-size: 1.3em;
-  font-weight: 600;
+  font-size: 1.25em;
+  font-weight: 500;
   color: hotpink;
   text-decoration: none;
+  display: block;
+  margin: 10px 0; /* nostaa projektit lähemmäs */
 }
 
 .project-link:hover {
   text-decoration: underline;
+}
+
+/* Pinkki viiva ylemmäs ja siistimmäksi */
+.divider {
+  width: 100%;
+  height: 2px;
+  background-color: hotpink;
+  margin: 25px 0; /* nostaa viivaa ylemmäs */
 }
 </style>
 
@@ -42,13 +59,8 @@ Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
 
 <div style="clear: both;"></div>
 
-<!-- OHUT PINKKI VIIVA -->
-<div style="
-  width: 100%;
-  height: 3px;
-  background-color: hotpink;
-  margin: 40px 0;
-"></div>
+<!-- OHUT PINKKI VIIVA (nostettu ylemmäs) -->
+<div class="divider"></div>
 
 ## 📁 Projektit
 
@@ -61,3 +73,4 @@ Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
 <p><a class="project-link" href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></p>
 
 <p><a class="project-link" href="uudetlainat.pdf">🏡 Uusien lainojen määrän analyysi</a></p>
+

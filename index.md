@@ -2,48 +2,15 @@
 title: ""
 ---
 
-<!-- YHTEYSTIEDOT OIKEALLE YLÖS -->
-<div style="position:absolute; top:10px; right:10px; text-align:right; font-size:0.9em;">
-  <strong>📬 Yhteystiedot</strong><br>
-  leenaeleino@gmail.com<br>
-  0443390314
-</div>
-
-## Hei! Olen Leena, ekonomisti.<br>Tervetuloa portfolioni sivuille.
-
-<img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
-
-<p style="font-size: 1.2em;">
-Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<br>
-mitä data ja käytännön havainnot kertovat.<br>
-Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
-</p>
-
-<div style="clear: both;"></div>
-
-<!-- OHUT TAUSTABANNERI -->
-<div style="
-  position: relative;
-  width:100%;
-  height:50px;
-  background-image:url('kuva11.jpg');
-  background-size:cover;
-  background-position:center;
-  margin-top:40px;
-">
- <div style="
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    background:rgba(255,255,255,0.7);
-  "></div>
-</div>
-
----
+<!-- GOOGLE FONT: INTER -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
 <style>
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Pinkki projektilinkki */
 .project-link {
   font-size: 1.3em;
   font-weight: 600;
@@ -56,6 +23,33 @@ Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
 }
 </style>
 
+<!-- YHTEYSTIEDOT OIKEALLE YLÖS -->
+<div style="position:absolute; top:10px; right:10px; text-align:right; font-size:0.9em;">
+  <strong>📬 Yhteystiedot</strong><br>
+  leenaeleino@gmail.com<br>
+  0443390314
+</div>
+
+<h2>Hei! Olen Leena, ekonomisti.<br>Tervetuloa portfolioni sivuille.</h2>
+
+<img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
+
+<p style="font-size: 1.2em;">
+Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<br>
+mitä data ja käytännön havainnot kertovat.<br>
+Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
+</p>
+
+<div style="clear: both;"></div>
+
+<!-- OHUT PINKKI VIIVA -->
+<div style="
+  width: 100%;
+  height: 3px;
+  background-color: hotpink;
+  margin: 40px 0;
+"></div>
+
 ## 📁 Projektit
 
 <p><a class="project-link" href="opinion.html">📝 Ekonomistin näkemyksiä</a></p>
@@ -67,5 +61,3 @@ Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
 <p><a class="project-link" href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></p>
 
 <p><a class="project-link" href="uudetlainat.pdf">🏡 Uusien lainojen määrän analyysi</a></p>
-
-

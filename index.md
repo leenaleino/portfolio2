@@ -44,44 +44,28 @@ Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
 ---
 
 <style>
-.project-box {
-  padding: 15px;
-  border-radius: 10px;
-  margin: 20px 0;
-  font-size: 1.1em;
-  border: 2px solid #ccc;
+.project-link {
+  font-size: 1.3em;
+  font-weight: 600;
+  color: hotpink;
+  text-decoration: none;
 }
 
-/* värit */
-.box1 { background: #ffe6f2; border-color: #ff99cc; }
-.box5 { background: #f0e6ff; border-color: #c299ff; }
-.box6 { background: #ffe6e6; border-color: #ff9999; }
-.box7 { background: #e6fff9; border-color: #66ffd1; }
-.box9 { background: #e6f0ff; border-color: #99b3ff; }
-
-/* hover poistettu */
+.project-link:hover {
+  text-decoration: underline;
+}
 </style>
 
 ## 📁 Projektit
 
-<div class="project-box box5">
-  <h3><a href="opinion.html">📝 Ekonomistin näkemyksiä</a></h3>
-</div>
+<p><a class="project-link" href="opinion.html">📝 Ekonomistin näkemyksiä</a></p>
 
-<div class="project-box box9">
-  <h3><a href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></h3>
-</div>
+<p><a class="project-link" href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></p>
 
-<div class="project-box box1">
-  <h3><a href="asuntorahasto_portfolio.pdf">🏢 Kiinteistörahastojen riskien tarkastelu R:llä</a></h3>
-</div>
+<p><a class="project-link" href="asuntorahasto_portfolio.pdf">🏢 Kiinteistörahastojen riskien tarkastelu R:llä</a></p>
 
-<div class="project-box box6">
-  <h3><a href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></h3>
-</div>
+<p><a class="project-link" href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></p>
 
-<div class="project-box box7">
-  <h3><a href="uudetlainat.pdf">🏡 Uusien lainojen määrän analyysi</a></h3>
-</div>
+<p><a class="project-link" href="uudetlainat.pdf">🏡 Uusien lainojen määrän analyysi</a></p>
 
 

@@ -54,17 +54,28 @@ h2 {
 
   <img src="kuva.jpg" width="90" style="border-radius:10px;">
 
-  <div style="max-width:600px; font-size:1.15em; line-height:1.35;">
-    Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.
+  <div style="max-width:600px; font-size:1.15em; line-height:1.45;">
 
-    Mutta aina datakaan ei kerro kaikkea. Yksittäinen mittari voi antaa taloudesta hyvin erilaisen kuvan riippuen siitä, millä tavoin se on mitattu.
+    <p>
+      Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.
+    </p>
 
-    <strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista. Yhden luvun perusteella on helppo tehdä liian pitkälle meneviä johtopäätöksiä talouden suunnasta.
+    <p>
+      Mutta aina datakaan ei kerro kaikkea. Yksittäinen mittari voi antaa taloudesta hyvin erilaisen kuvan riippuen siitä, millä tavoin se on mitattu.
+    </p>
 
-    Siksi haluan mennä lukujen taakse. Mitä olennaista voi datasta jäädä puuttumaan, ja miten se vaikuttaa siihen, mitä siitä voi oikeasti päätellä.
+    <p>
+      <strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista. Yhden luvun perusteella on helppo tehdä liian pitkälle meneviä johtopäätöksiä talouden suunnasta.
+    </p>
+
+    <p>
+      Siksi haluan mennä lukujen taakse. Mitä olennaista voi datasta jäädä puuttumaan, ja miten se vaikuttaa siihen, mitä siitä voi oikeasti päätellä.
+    </p>
+
   </div>
 
 </div>
+
 
 <div class="divider"></div>
 

@@ -53,8 +53,7 @@ h2 {
 
 <p style="font-size: 1.2em; line-height:1.45;">
 Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.<br><br>
-
-Mutta aina datakaan ei kerro kaikkea. Yksittäinen mittari voi antaa taloudesta hyvin erilaisen kuvan riippuen siitä, mitä se mittaa – ja mitä se jättää mittaamatta.<br><br>
+Mutta aina datakaan ei kerro kaikkea. Yksittäinen mittari voi antaa taloudesta hyvin erilaisen kuvan riippuen siitä, millä tavalla se on mitattu.<br><br>
 
 <strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista. Yhden luvun perusteella on helppo tehdä liian pitkälle meneviä johtopäätöksiä talouden suunnasta.<br><br>
 

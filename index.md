@@ -76,14 +76,14 @@ h2 {
 
 </div>
 
-
 <div class="divider"></div>
 
-## 📁 Projektit
+## 📁 Kirjoitukset/projektit
 
 <p><a class="project-link" href="opinion.html">📝 Ekonomistin näkemyksiä</a></p>
 <p><a class="project-link" href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></p>
 <p><a class="project-link" href="asuntorahasto_portfolio.pdf">🏢 Kiinteistörahastojen riskien tarkastelu R:llä</a></p>
 <p><a class="project-link" href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></p>
+
 
 

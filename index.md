@@ -2,12 +2,12 @@
 title: ""
 ---
 
-<!-- GOOGLE FONT: LATO (kevyt ja siisti) -->
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;600&display=swap" rel="stylesheet">
+<!-- GOOGLE FONT: SOURCE SERIF PRO -->
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300;400;600&display=swap" rel="stylesheet">
 
 <style>
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Source Serif Pro', serif;
 }
 
 /* Otsikko hieman vahvemmaksi */
@@ -24,19 +24,19 @@ h2 {
   color: hotpink;
   text-decoration: none;
   display: block;
-  margin: 10px 0; /* nostaa projektit lähemmäs */
+  margin: 10px 0;
 }
 
 .project-link:hover {
   text-decoration: underline;
 }
 
-/* Pinkki viiva ylemmäs ja siistimmäksi */
+/* Pinkki viiva */
 .divider {
   width: 100%;
   height: 2px;
   background-color: hotpink;
-  margin: 25px 0; /* nostaa viivaa ylemmäs */
+  margin: 25px 0;
 }
 </style>
 
@@ -51,26 +51,26 @@ h2 {
 
 <img src="kuva.jpg" width="80" style="float:left; margin-right:20px; border-radius:10px;">
 
-<p style="font-size: 1.2em;">
-Teen talouteen ja markkinoihin liittyviä analyysejä, joissa keskityn siihen,<br>
-mitä data ja käytännön havainnot kertovat.<br>
-Kirjoitan myös talouden rakenteista analyyttista pohdintaa.
+<p style="font-size: 1.2em; line-height:1.45;">
+Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.<br><br>
+
+Mutta aina datakaan ei kerro kaikkea. Yksittäinen mittari voi antaa taloudesta hyvin erilaisen kuvan riippuen siitä, mitä se mittaa – ja mitä se jättää mittaamatta.<br><br>
+
+<strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista. Yhden luvun perusteella on helppo tehdä liian pitkälle meneviä johtopäätöksiä talouden suunnasta.<br><br>
+
+Siksi haluan mennä lukujen taakse. Mitä data oikeastaan kertoo ja mitä voimme sen perusteella aidosti päätellä?
 </p>
 
 <div style="clear: both;"></div>
 
-<!-- OHUT PINKKI VIIVA (nostettu ylemmäs) -->
 <div class="divider"></div>
 
 ## 📁 Projektit
 
 <p><a class="project-link" href="opinion.html">📝 Ekonomistin näkemyksiä</a></p>
-
 <p><a class="project-link" href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></p>
-
 <p><a class="project-link" href="asuntorahasto_portfolio.pdf">🏢 Kiinteistörahastojen riskien tarkastelu R:llä</a></p>
-
 <p><a class="project-link" href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></p>
 
-<p><a class="project-link" href="uudetlainat.pdf">🏡 Uusien lainojen määrän analyysi</a></p>
+
 

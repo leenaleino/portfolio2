@@ -10,21 +10,22 @@ body {
   font-family: 'Source Serif Pro', serif;
 }
 
-/* Otsikko hieman vahvemmaksi */
+/* Otsikko isommaksi ja lihavoiduksi */
 h2 {
+  font-size: 1.9rem;
   font-weight: 600;
   letter-spacing: -0.2px;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 /* Pinkki projektilinkki */
 .project-link {
-  font-size: 1.25em;
+  font-size: 1.15em;
   font-weight: 500;
   color: hotpink;
   text-decoration: none;
   display: block;
-  margin: 10px 0;
+  margin: 8px 0;
 }
 
 .project-link:hover {
@@ -36,7 +37,7 @@ h2 {
   width: 100%;
   height: 2px;
   background-color: hotpink;
-  margin: 25px 0;
+  margin: 20px 0;
 }
 </style>
 
@@ -54,7 +55,8 @@ h2 {
 
   <img src="kuva.jpg" width="90" style="border-radius:10px;">
 
-  <div style="max-width:600px; font-size:1.15em; line-height:1.45;">
+  <!-- pienennetty tekstikoko -->
+  <div style="max-width:600px; font-size:0.95rem; line-height:1.45;">
 
     <p>
       Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.
@@ -65,7 +67,7 @@ h2 {
     </p>
 
     <p>
-      <strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista. Yhden luvun perusteella on helppo tehdä liian pitkälle meneviä johtopäätöksiä talouden suunnasta.
+      <strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista.
     </p>
 
     <p>
@@ -84,6 +86,3 @@ h2 {
 <p><a class="project-link" href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></p>
 <p><a class="project-link" href="asuntorahasto_portfolio.pdf">🏢 Kiinteistörahastojen riskien tarkastelu R:llä</a></p>
 <p><a class="project-link" href="EDP_portfolio.pdf">📉 EDP‑velan analyysi</a></p>
-
-
-

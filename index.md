@@ -10,34 +10,42 @@ body {
   font-family: 'Source Serif Pro', serif;
 }
 
-/* Otsikko isommaksi ja lihavoiduksi */
+/* Otsikko pienemmäksi mutta edelleen vahva */
 h2 {
-  font-size: 1.7rem;
+  font-size: 1.6rem;     /* pienennetty */
   font-weight: 600;
   letter-spacing: -0.2px;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
+}
+
+/* Kirjoitukset/projektit -otsikko pienemmäksi */
+h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 8px;
 }
 
 /* Pinkki projektilinkki */
 .project-link {
-  font-size: 1.15em;
+  font-size: 1.05em;
   font-weight: 500;
   color: hotpink;
   text-decoration: none;
   display: block;
-  margin: 8px 0;
+  margin: 6px 0;
 }
 
 .project-link:hover {
   text-decoration: underline;
 }
 
-/* Pinkki viiva */
+/* Pinkki viiva — nostettu ylemmäs */
 .divider {
   width: 100%;
   height: 2px;
   background-color: hotpink;
-  margin: 20px 0;
+  margin: 8px 0 12px 0; /* tiiviimpi */
 }
 </style>
 
@@ -80,7 +88,7 @@ h2 {
 
 <div class="divider"></div>
 
-## 📁 Kirjoitukset/projektit
+<h3>📁 Kirjoitukset/projektit</h3>
 
 <p><a class="project-link" href="opinion.html">📝 Ekonomistin näkemyksiä</a></p>
 <p><a class="project-link" href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></p>

@@ -12,7 +12,7 @@ body {
 
 /* Otsikko isommaksi ja lihavoiduksi */
 h2 {
-  font-size: 1.9rem;
+  font-size: 1.7rem;
   font-weight: 600;
   letter-spacing: -0.2px;
   margin-bottom: 20px;

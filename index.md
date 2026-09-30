@@ -12,7 +12,7 @@ body {
 
 /* Otsikko pienemmäksi mutta edelleen vahva */
 h2 {
-  font-size: 1.6rem;     /* pienennetty */
+  font-size: 1.6rem;
   font-weight: 600;
   letter-spacing: -0.2px;
   margin-bottom: 16px;
@@ -40,12 +40,28 @@ h3 {
   text-decoration: underline;
 }
 
-/* Pinkki viiva — nostettu ylemmäs */
+/* Pinkki viiva */
 .divider {
   width: 100%;
   height: 2px;
   background-color: hotpink;
-  margin: 8px 0 12px 0; /* tiiviimpi */
+  margin: 8px 0 12px 0;
+  position: relative;
+}
+
+/* Työkalurivi oikeaan alakulmaan */
+.tools {
+  position: absolute;
+  right: 0;
+  bottom: -22px;
+  font-size: 0.9rem;
+  font-weight: 600;       /* lihavoitu */
+  color: black;           /* musta teksti */
+}
+
+.tools span {
+  color: hotpink;         /* pinkit pystyviivat */
+  font-weight: 600;
 }
 </style>
 
@@ -63,9 +79,7 @@ h3 {
 
   <img src="kuva.jpg" width="90" style="border-radius:10px;">
 
-  <!-- pienennetty tekstikoko -->
   <div style="max-width:600px; font-size:0.95rem; line-height:1.45;">
-
     <p>
       Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.
     </p>
@@ -81,12 +95,15 @@ h3 {
     <p>
       Siksi haluan mennä lukujen taakse. Mitä olennaista voi datasta jäädä puuttumaan, ja miten se vaikuttaa siihen, mitä siitä voi oikeasti päätellä.
     </p>
-
   </div>
 
 </div>
 
-<div class="divider"></div>
+<div class="divider">
+  <div class="tools">
+    <strong>R <span>|</span> SAS <span>|</span> Power BI <span>|</span> SQL <span>|</span> Tableau</strong>
+  </div>
+</div>
 
 <h3>📁 Kirjoitukset/projektit</h3>
 

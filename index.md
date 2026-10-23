@@ -79,13 +79,17 @@ h3 {
 
   <img src="kuva.jpg" width="90" style="border-radius:10px;">
 
-  <div style="max-width:600px; font-size:0.95rem; line-height:1.45;">
-    <p>
-      Taloudessa minua kiinnostavat erityisesti kysymykset, joihin ei löydy vastausta yhdestä tunnusluvusta tai yhdestä kuvaajasta. Markkinat, yritykset, julkinen talous ja       sijoittajat reagoivat samaan todellisuuteen eri tavoin, minkä vuoksi kokonaiskuva rakentuu usein useista toisiaan täydentävistä havainnoista.
-
-      Tässä portfoliossa kokoan analyysejä, mallinnuksia ja kirjoituksia aiheista, jotka liittyvät talouteen, rahoitusmarkkinoihin, sijoittamiseen ja yhteiskunnallisiin           rakenteihin. Tarkoituksena on tarkastella kysymyksiä datan, taloustieteen ja kriittisen ajattelun kautta.
-
-      Tervetuloa tutustumaan.
+<div style="max-width:600px; font-size:0.95rem; line-height:1.45;">
+<p>
+Taloudessa minua kiinnostavat erityisesti kysymykset, joihin ei löydy vastausta yhdestä tunnusluvusta tai yhdestä kuvaajasta. Markkinat, yritykset, julkinen talous ja sijoittajat reagoivat samaan todellisuuteen eri tavoin, minkä vuoksi kokonaiskuva rakentuu usein useista toisiaan täydentävistä havainnoista.
+</p>
+ 
+<p style="margin-top:1rem;">
+Tässä portfoliossa kokoan analyysejä, mallinnuksia ja kirjoituksia aiheista, jotka liittyvät talouteen, rahoitusmarkkinoihin, sijoittamiseen ja yhteiskunnallisiin rakenteisiin. Tarkoituksena on tarkastella kysymyksiä datan, taloustieteen ja kriittisen ajattelun kautta.
+<br><br>
+Tervetuloa tutustumaan.
+</p>
+</div>
 
 
 <div class="divider">

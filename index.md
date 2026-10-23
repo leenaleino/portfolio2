@@ -81,20 +81,11 @@ h3 {
 
   <div style="max-width:600px; font-size:0.95rem; line-height:1.45;">
     <p>
-      Rehellisesti, minua eivät kiinnosta valmiit narratiivit. Haluan tarkistaa faktat itse ja muodostaa näkemykseni datan perusteella.
-    </p>
+      Taloudessa minua kiinnostavat erityisesti kysymykset, joihin ei löydy vastausta yhdestä tunnusluvusta tai yhdestä kuvaajasta. Markkinat, yritykset, julkinen talous ja       sijoittajat reagoivat samaan todellisuuteen eri tavoin, minkä vuoksi kokonaiskuva rakentuu usein useista toisiaan täydentävistä havainnoista.
 
-    <p>
-      Mutta aina datakaan ei kerro kaikkea. Yksittäinen mittari voi antaa taloudesta hyvin erilaisen kuvan riippuen siitä, millä tavoin se on mitattu.
-    </p>
+      Tässä portfoliossa kokoan analyysejä, mallinnuksia ja kirjoituksia aiheista, jotka liittyvät talouteen, rahoitusmarkkinoihin, sijoittamiseen ja yhteiskunnallisiin           rakenteihin. Tarkoituksena on tarkastella kysymyksiä datan, taloustieteen ja kriittisen ajattelun kautta.
 
-    <p>
-      <strong>Esimerkiksi Suomen työllisyysaste</strong> kertoo, kuinka suuri osuus väestöstä on työllisiä, mutta ei kerro tehtyjen työtuntien määrästä, työn laadusta tai työmarkkinoiden rakenteellisista muutoksista.
-    </p>
-
-    <p>
-      Siksi haluan mennä lukujen taakse. Mitä olennaista voi datasta jäädä puuttumaan, ja miten se vaikuttaa siihen, mitä siitä voi oikeasti päätellä.
-    </p>
+Tervetuloa tutustumaan.
   </div>
 
 </div>

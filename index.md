@@ -84,7 +84,7 @@ h3 {
 Taloudessa minua kiinnostavat erityisesti kysymykset, joihin ei löydy vastausta yhdestä tunnusluvusta tai yhdestä kuvaajasta. Markkinat, yritykset, julkinen talous ja sijoittajat reagoivat samaan todellisuuteen eri tavoin, minkä vuoksi kokonaiskuva rakentuu usein useista toisiaan täydentävistä havainnoista.
 </p> Tässä portfoliossa kokoan analyysejä, mallinnuksia ja kirjoituksia aiheista, jotka liittyvät talouteen, rahoitusmarkkinoihin, sijoittamiseen ja yhteiskunnallisiin rakenteisiin. Tarkoituksena on tarkastella kysymyksiä datan, taloustieteen ja kriittisen ajattelun kautta.
 Tervetuloa tutustumaan.
-</p>
+
 
 <div class="divider">
   <div class="tools">

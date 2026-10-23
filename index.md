@@ -85,10 +85,9 @@ h3 {
 
       Tässä portfoliossa kokoan analyysejä, mallinnuksia ja kirjoituksia aiheista, jotka liittyvät talouteen, rahoitusmarkkinoihin, sijoittamiseen ja yhteiskunnallisiin           rakenteihin. Tarkoituksena on tarkastella kysymyksiä datan, taloustieteen ja kriittisen ajattelun kautta.
 
-Tervetuloa tutustumaan.
+      Tervetuloa tutustumaan.
   </div>
 
-</div>
 
 <div class="divider">
   <div class="tools">

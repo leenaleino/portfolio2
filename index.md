@@ -94,6 +94,7 @@ Tervetuloa tutustumaan.
 
 <h3>📁 Kirjoitukset/projektit</h3>
 
+<p><a class="project-link" href="markkinat.html"> 📊 Mitä markkinat arvioivat Suomen julkisessa taloudessa?</a></p>
 <p><a class="project-link" href="opinion.html">📝 Ekonomistin näkemyksiä</a></p>
 <p><a class="project-link" href="korkoy.pdf">📈 Korkoympäristön normalisoituminen ja tuottovaatimus</a></p>
 <p><a class="project-link" href="asuntorahasto_portfolio.pdf">🏢 Kiinteistörahastojen riskien tarkastelu R:llä</a></p>
